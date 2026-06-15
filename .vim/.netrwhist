@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/matteus/repos/c_project'
+let g:netrw_dirhist_2='/home/matteus/repos/11981D_2526/include'
+let g:netrw_dirhist_1='/home/matteus/repos/11981D_2526/src'

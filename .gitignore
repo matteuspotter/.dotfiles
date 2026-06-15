@@ -1,0 +1,9 @@
+# Never track SSH keys
+.ssh/
+.gnupg/
+
+# Never track API keys or environment secrets
+*.pem
+*.key
+.env
+*.env.*
