@@ -1,5 +1,6 @@
 {
     "py/object": "pros.config.cli_config.CliConfig",
+exec --no-startup-id redshift -c ~/.config/redshift/redshift.conf
     "py/state": {
         "ga": {
             "enabled": "True",
